@@ -17,8 +17,6 @@ public class Exercicio15 {
         else {
             System.out.println(numero + " é ímpar!");
         }
-        doNothing(scan);
+        scan.close ();
     }
-
-    private static void doNothing(Scanner s) {}
 }
