@@ -10,6 +10,9 @@
    Neste repositório irei colocar um pouco do meu conhecimento da **linguagem Java** 
    alguns **exercícios** e **projetos** que fiz e estou fazendo! Espero esse material
    contribua no seu aprendizado ou esclarecimento de possíveis dúvidas!
+   * Algoritmos [Clique aqui!](https://github.com/LucasFernandesBrazil/Java/tree/main/Java/Exercicios/src/Algoritmo)
+   * Estrutura de Dados [Matriz](https://github.com/LucasFernandesBrazil/Java/tree/main/Java/Exercicios/src/estruturaDeDados/Matriz) / [Vetores](https://github.com/LucasFernandesBrazil/Java/tree/main/Java/Exercicios/src/estruturaDeDados/Vetores)
+   * Funções e Procedimentos [Clique aqui!](https://github.com/LucasFernandesBrazil/Java/tree/main/Java/Exercicios/src/funcoesProcedimentos)
     
     
    &nbsp;
