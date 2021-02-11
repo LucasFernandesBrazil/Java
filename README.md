@@ -16,7 +16,7 @@
     
     
    &nbsp;
-   <img align = "right" src = "https://octodex.github.com/images/mountietocat.png" width = "200">
+   <img align = "right" src = "https://octodex.github.com/images/Fintechtocat.png" width = "200">
    
    
    &nbsp;
